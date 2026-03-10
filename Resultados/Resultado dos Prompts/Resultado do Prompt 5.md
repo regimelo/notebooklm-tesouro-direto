@@ -13,6 +13,7 @@ Segurança e Previsibilidade: Ao manter o título até o vencimento, o governo g
 
 
 **Quanto investir por mês?**
+
 Para esta simulação, consideramos uma taxa de juros real estimada de 6% ao ano (além da inflação), que é um patamar comum para títulos de longo prazo exemplificado nos manuais.
 
 Aporte Inicial: R$ 50.000,00.
@@ -22,6 +23,7 @@ Aporte Mensal Necessário: Aproximadamente R$ 1.300,00.
 Nota: Se a taxa de juros real do mercado no momento da compra for maior que 6%, o valor do aporte mensal necessário será menor.
 
 **Passo a Passo para atingir o objetivo**
+
 Abertura de Conta: Escolha uma corretora de valores ou banco habilitado de sua confiança e realize o cadastro.
 
 Definição do Título: No portal do Tesouro Direto ou na plataforma da corretora, selecione o Tesouro IPCA+ com vencimento o mais próximo possível de 15 anos à frente (atualmente, o título 2040 seria o ideal).

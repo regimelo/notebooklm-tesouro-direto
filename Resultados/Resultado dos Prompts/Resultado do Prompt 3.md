@@ -34,6 +34,7 @@ Resultado Final Total: Aproximadamente **R$ 134.885,00** (considerando apenas os
 | Poupança           | R$ 100.000,00  | R$ 134.885,00                      |
 
 **Por que o Tesouro Direto costuma render mais?**
+
 Rentabilidade Superior: Mesmo com a cobrança de impostos e taxas, o rendimento bruto dos títulos públicos (como o Tesouro Selic que paga 100% da Selic) tende a ser significativamente maior que o da poupança (que paga apenas 70% da Selic ou 0,5% fixo).
 
 Rendimento Diário: Enquanto a poupança só credita juros no dia do "aniversário" mensal do depósito, o Tesouro Direto apresenta rendimento todos os dias úteis.

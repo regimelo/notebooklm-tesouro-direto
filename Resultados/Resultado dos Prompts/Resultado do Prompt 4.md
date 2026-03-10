@@ -28,4 +28,4 @@ Tesouro com Juros Semestrais (NTN-B/NTN-F): Se o objetivo for acumular patrimôn
 
 Poupança vs. Tesouro Direto: Mesmo com o pagamento de impostos, o Tesouro Direto (especialmente o Selic) costuma render consideravelmente mais que a poupança, que paga apenas 70% da Selic (em cenários de juros baixos) ou 0,5% fixo + TR. Além disso, o Tesouro rende diariamente, enquanto a poupança só credita juros no "aniversário" mensal.
 
-Atenção: Os valores reais dependerão das taxas de mercado no momento exato de cada aporte. O governo federal garante o pagamento da taxa contratada apenas para quem mantém o título até o vencimento. Para simulações com taxas atualizadas hoje, recomenda-se o uso do simulador oficial no site do Tesouro Nacional.
+**Atenção**: Os valores reais dependerão das taxas de mercado no momento exato de cada aporte. O governo federal garante o pagamento da taxa contratada apenas para quem mantém o título até o vencimento. Para simulações com taxas atualizadas hoje, recomenda-se o uso do simulador oficial no site do Tesouro Nacional.

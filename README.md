@@ -10,16 +10,17 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 
 
 ## Resultados:
-Foi criado o carderno temático Tesoudo Direto no NotebookLM, adicionado 5 fontes PDF para ser utilizado como referência para o modelo de IA, foi explorado as funcionabilidades do Estúdio e criado Prompts para geração de conteúdo conforme aprendido da Engenharia de Prompts.
+Foi criado o caderno temático 'Tesouro Direto' no NotebookLM, com a adição de 5 fontes em PDF para serem utilizadas como referência e processadas pelo modelo de IA (Gemini). Foram exploradas as funcionalidades do 'Estúdio' e criados Prompts para geração de conteúdo, conforme aprendido em Engenharia de Prompts.
+
 
 URL pública para interação com o NotebookLM deste desafio:
 - [Tesouro Direto](https://notebooklm.google.com/notebook/3ee30467-74c9-4eec-aa99-2cec86b91d64)
 
 
 Conteúdos gerados pelo NotebookLM:
-- Video: [Tesoudo Direto: Guia Prático](blob:https://github.com/a3584db8-1955-4027-b35d-7f28c5429427)
-- PDF: Guia Investindo no Tesouro Direto com Glossário
-- Podcast: [A engenharia do Tesouro Direto](blob:https://github.com/f00d2060-af31-491e-852d-d0693f062308)
+- Video: [Tesoudo Direto: Guia Prático](https://github.com/a3584db8-1955-4027-b35d-7f28c5429427)
+- PDF: [Guia Investindo no Tesouro Direto com Glossário](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/PDF%20-%20Guia%20Investindo%20no%20Tesouro%20Direto%20com%20Gloss%C3%A1rio/Guia%20Definitivo%20e%20Did%C3%A1tico%20-%20Investindo%20no%20Tesouro%20Direto.pdf)
+- Podcast: [A engenharia do Tesouro Direto](https://github.com/f00d2060-af31-491e-852d-d0693f062308)
 - Mapa Mental: [Guia Definitivo do Tesouro Direto](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Mapa%20Mental/NotebookLM%20Mind%20Map.png)
 
 
