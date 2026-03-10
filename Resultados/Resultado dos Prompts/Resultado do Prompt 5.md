@@ -19,8 +19,9 @@ Para esta simulação, consideramos uma taxa de juros real estimada de 6% ao ano
 Aporte Inicial: R$ 50.000,00.
 Prazo: 15 anos (180 meses).
 Objetivo Final: R$ 500.000,00 (em valor real, ou seja, ajustado pela inflação).
-Aporte Mensal Necessário: Aproximadamente R$ 1.300,00.
+Aporte Mensal Necessário: Aproximadamente **R$ 1.300,00**.
 Nota: Se a taxa de juros real do mercado no momento da compra for maior que 6%, o valor do aporte mensal necessário será menor.
+
 
 **Passo a Passo para atingir o objetivo**
 

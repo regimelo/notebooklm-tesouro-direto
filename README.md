@@ -18,9 +18,9 @@ URL pública para interação com o NotebookLM deste desafio:
 
 
 Conteúdos gerados pelo NotebookLM:
-- Video: [Tesoudo Direto: Guia Prático](https://github.com/a3584db8-1955-4027-b35d-7f28c5429427)
+- Video: [Tesoudo Direto: Guia Prático](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Video/Tesouro%20Direto%20-%20Guia%20Pr%C3%A1tico.mp4)
 - PDF: [Guia Investindo no Tesouro Direto com Glossário](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/PDF%20-%20Guia%20Investindo%20no%20Tesouro%20Direto%20com%20Gloss%C3%A1rio/Guia%20Definitivo%20e%20Did%C3%A1tico%20-%20Investindo%20no%20Tesouro%20Direto.pdf)
-- Podcast: [A engenharia do Tesouro Direto](https://github.com/f00d2060-af31-491e-852d-d0693f062308)
+- Podcast: [A engenharia do Tesouro Direto](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Podcast/A_engenharia_do_Tesouro_Direto.m4a)
 - Mapa Mental: [Guia Definitivo do Tesouro Direto](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Mapa%20Mental/NotebookLM%20Mind%20Map.png)
 
 

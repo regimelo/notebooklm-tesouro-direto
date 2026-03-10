@@ -4,6 +4,7 @@
 
 Com base nos materiais fornecidos, aqui estão 5 vantagens e 5 desvantagens (ou riscos) de investir no Tesouro Direto:
 
+
 **Vantagens:**
 - Segurança: Os títulos públicos são considerados os ativos mais seguros do Brasil, pois são garantidos pelo próprio Governo Federal, apresentando o menor risco de crédito (calote) do mercado.
 
@@ -14,6 +15,7 @@ Com base nos materiais fornecidos, aqui estão 5 vantagens e 5 desvantagens (ou 
 - Flexibilidade de Escolha: Existe uma variedade de títulos (como Selic, Prefixado, IPCA+, RendA+ e Educa+) que podem ser escolhidos de acordo com objetivos específicos, como reserva de emergência, aposentadoria ou educação.
 
 - Rentabilidade: Oferece retornos que costumam ser superiores aos da caderneta de poupança, com regras de rentabilidade claras e conhecidas no momento da aplicação.
+
 
 **Desvantagens e Riscos:**
 - Marcação a Mercado: No caso de resgate antecipado, o valor recebido pode ser menor do que o investido, dependendo das condições de mercado e das taxas de juros no dia da venda (exceto no Tesouro Selic, que possui baixa volatilidade).

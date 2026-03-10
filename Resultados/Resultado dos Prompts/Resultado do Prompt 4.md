@@ -16,6 +16,7 @@ Aporte Inicial: R$ 50.000,00 ∣ AportesMensais: R$ 500,00 | Total Investido: R$
 | Tesouro Selic      | Acompanha a taxa básica de juros                  | Reserva de emergência e baixa volatilidade      | R$ 195.000,00                      |
 | Poupança           | 0,5% am + TR (se Selic > 8,5%)                    | Investimento tradicional e isento de IR          | R$ 168.000,00                      |
 
+
 **Análise dos Resultados conforme as Fontes**
 
 Tesouro IPCA+: É frequentemente o título com melhor desempenho para prazos longos como 10 anos, pois garante um rendimento real (acima da inflação), protegendo o patrimônio contra o aumento de preços.

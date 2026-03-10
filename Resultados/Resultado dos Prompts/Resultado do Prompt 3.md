@@ -2,7 +2,7 @@
 Aporte único de R$ 100.000,00 no Tesouro Direto X, resultado total R$ 170.000,00.
 Aporte único de R$ 100.000,00 na poupança, resultado final R$ 120.000,00
 
-## Resultdo:
+## Resultado:
 
 Com base nos exemplos técnicos e regras de rentabilidade contidos nas fontes, é possível realizar uma simulação comparativa para um aporte de R$ 100.000,00 por um prazo de 5 anos. Como as taxas de juros variam diariamente, utilizaremos as taxas exemplificadas nos manuais para ilustrar o resultado.
 
@@ -19,6 +19,7 @@ Taxa de Custódia B3: Entre 0,20% e 0,25% ao ano sobre o valor total (aprox. R$ 
 
 Resultado Líquido Total: Aproximadamente **R$ 150.693,35**.
 
+
 **Caderneta de Poupança (Regra de 0,5% ao mês + TR):**
 Aporte único: R$ 100.000,00.
 Rentabilidade: Quando a Selic está acima de 8,5%, a poupança rende 0,5% ao mês (aprox. 6,17% ao ano) mais a Taxa Referencial (TR).
@@ -32,6 +33,7 @@ Resultado Final Total: Aproximadamente **R$ 134.885,00** (considerando apenas os
 |--------------------|----------------|-------------------------------------|
 | Tesouro Direto X   | R$ 100.000,00  | R$ 150.693,35                      |
 | Poupança           | R$ 100.000,00  | R$ 134.885,00                      |
+
 
 **Por que o Tesouro Direto costuma render mais?**
 
