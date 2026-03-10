@@ -1,6 +1,4 @@
-## Prompt 3: Para fim de comparação, qual o resultado financeiro de um investimento em Tesouro Direto, considerando um aporte único de R$ 100.000,00 e um prazo de 5 anos? Compare esse investimento com a poupança, exemplo:
-Aporte único de R$ 100.000,00 no Tesouro Direto X, resultado total R$ 170.000,00.
-Aporte único de R$ 100.000,00 na poupança, resultado final R$ 120.000,00
+## Prompt 3: Para fim de comparação, qual o resultado financeiro de um investimento em Tesouro Direto, considerando um aporte único de R$ 100.000,00 e um prazo de 5 anos? Compare esse investimento com a poupança, exemplo: Aporte único de R$ 100.000,00 no Tesouro Direto X, resultado total R$ 170.000,00. Aporte único de R$ 100.000,00 na poupança, resultado final R$ 120.000,00
 
 ## Resultado:
 
