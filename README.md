@@ -13,22 +13,22 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 Foi criado o carderno temático Tesoudo Direto no NotebookLM, adicionado 5 fontes PDF para ser utilizado como referência para o modelo de IA, foi explorado as funcionabilidades do Estúdio e criado Prompts para geração de conteúdo conforme aprendido da Engenharia de Prompts.
 
 URL pública para interação com o NotebookLM deste desafio:
-- Tesouro Direto
+- [Tesouro Direto](https://notebooklm.google.com/notebook/3ee30467-74c9-4eec-aa99-2cec86b91d64)
+
 
 Conteúdos gerados pelo NotebookLM:
-- Video: Tesoudo Direto: Guia Prático
+- Video: [Tesoudo Direto: Guia Prático](blob:https://github.com/a3584db8-1955-4027-b35d-7f28c5429427)
 - PDF: Guia Investindo no Tesouro Direto com Glossário
-- Podcast: A engenharia do Tesouro Direto
-- Mapa Mental: Guia Definitivo do Tesouro Direto
+- Podcast: [A engenharia do Tesouro Direto](blob:https://github.com/f00d2060-af31-491e-852d-d0693f062308)
+- Mapa Mental: [Guia Definitivo do Tesouro Direto](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Mapa%20Mental/NotebookLM%20Mind%20Map.png)
+
 
 Prompts e Resultados:
-- Liste 5 vantagens e desvantagens do Tesouro Direto.
-- O investidor pode perder dinheiro com Tesouro Direto?
-- Para fim de comparação, qual o resultado financeiro de um investimento em Tesouro Direto, considerando um aporte único de R$ 100.000,00 e um prazo de 5 anos? Compare esse investimento com a poupança, exemplo:
-Aporte único de R$ 100.000,00 no Tesouro Direto X, resultado total R$ 170.000,00.
-Aporte único de R$ 100.000,00 na poupança, resultado final R$ 120.000,00
-- Compare o resultado final entre os diferentes tipos de títulos do Tesouro Direto. Considere um aporte inicial de R$ 50.000,00 e aportes mensais de R$ 500,00 em um prazo de 10 anos. A saida deve ser em tabela. Adicione na tabela o resultado da poupança.
-- Eu tenho objetivo de acumular R$ 500.000,00 em 15 anos. Qual o melhor título do Tesouro Direto para esse caso? O que eu devo fazer para atingir o objetivo? Monte um passo a passo para eu atingir o resultado financeiro de R$ 500.000,00, considerando que eu tenho um aporte inicial de R$ 50,000,00, e irei fazer aportes mensais. Me informe qual o valor dos aportes mensais para eu atingir o objetivo.
+- [Liste 5 vantagens e desvantagens do Tesouro Direto.](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Resultado%20dos%20Prompts/Resultado%20do%20Prompt%201.md)
+- [O investidor pode perder dinheiro com Tesouro Direto?](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Resultado%20dos%20Prompts/Resultado%20do%20Prompt%202.md)
+- [Para fim de comparação, qual o resultado financeiro de um investimento em Tesouro Direto, considerando um aporte único de R$ 100.000,00 e um prazo de 5 anos? Compare esse investimento com a poupança, exemplo: Aporte único de R$ 100.000,00 no Tesouro Direto X, resultado total R$ 170.000,00. Aporte único de R$ 100.000,00 na poupança, resultado final R$ 120.000,00](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Resultado%20dos%20Prompts/Resultado%20do%20Prompt%203.md)
+- [Compare o resultado final entre os diferentes tipos de títulos do Tesouro Direto. Considere um aporte inicial de R$ 50.000,00 e aportes mensais de R$ 500,00 em um prazo de 10 anos. A saida deve ser em tabela. Adicione na tabela o resultado da poupança.](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Resultado%20dos%20Prompts/Resultado%20do%20Prompt%204.md)
+- [Eu tenho objetivo de acumular R$ 500.000,00 em 15 anos. Qual o melhor título do Tesouro Direto para esse caso? O que eu devo fazer para atingir o objetivo? Monte um passo a passo para eu atingir o resultado financeiro de R$ 500.000,00, considerando que eu tenho um aporte inicial de R$ 50,000,00, e irei fazer aportes mensais. Me informe qual o valor dos aportes mensais para eu atingir o objetivo.](https://github.com/regimelo/notebooklm-tesouro-direto/blob/main/Resultados/Resultado%20dos%20Prompts/Resultado%20do%20Prompt%205.md)
 
 
 
